@@ -22,11 +22,7 @@ Each task focuses on mastering **version control, automation, and CI/CD** concep
 
 ---
 
-## 🧠 Learning Objective
 
-To build **production-grade DevOps fundamentals** through 100+ real scenarios — the same workflows used at Microsoft, Deloitte, and product-based companies.
-
----
 
 ## 📚 Author
 
